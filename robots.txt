@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://coetzeeg554-png-megco-holdings-shop.vercel.app/sitemap.xml
