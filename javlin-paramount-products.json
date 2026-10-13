@@ -1,0 +1,86 @@
+[
+  {
+    "name": "PARAMOUNT CONTISUIT",
+    "colors": "Royal / Black / Navy / Grey / Khaki",
+    "price": 199,
+    "image": "javlin-01.jpg",
+    "description": ""
+  },
+  {
+    "name": "PARAMOUNT CONTISUIT",
+    "colors": "Emerald / Yellow / White / Orange / Red",
+    "price": 199,
+    "image": "javlin-02.jpg",
+    "description": ""
+  },
+  {
+    "name": "PARAMOUNT CONTISUIT",
+    "colors": "Cedar Green",
+    "price": 260,
+    "image": "javlin-03.jpg",
+    "description": ""
+  },
+  {
+    "name": "PARAMOUNT CONTISUIT",
+    "colors": "Royal Blue",
+    "price": 305,
+    "image": "javlin-04.jpg",
+    "description": ""
+  },
+  {
+    "name": "PARAMOUNT CONTISUIT",
+    "colors": "Blue Indigo Denim",
+    "price": 366,
+    "image": "javlin-05.jpg",
+    "description": ""
+  },
+  {
+    "name": "PARAMOUNT CONTISUIT JACKET ONLY",
+    "colors": "Royal Blue / Navy / Black",
+    "price": 122,
+    "image": "javlin-06.jpg",
+    "description": ""
+  },
+  {
+    "name": "PARAMOUNT CONTISUIT TROUSER ONLY",
+    "colors": "Royal Blue / Navy / Black",
+    "price": 122,
+    "image": "javlin-07.jpg",
+    "description": ""
+  },
+  {
+    "name": "PARAMOUNT CONTISUIT \u2014 REFLECTIVE",
+    "colors": "Royal / Navy / Black / Grey / Khaki",
+    "price": 229,
+    "image": "javlin-08.jpg",
+    "description": "Reflective tape on arms and legs"
+  },
+  {
+    "name": "PARAMOUNT CONTISUIT \u2014 REFLECTIVE",
+    "colors": "Emerald / Yellow / White / Orange / Red",
+    "price": 229,
+    "image": "javlin-09.jpg",
+    "description": "Reflective tape on arms and legs"
+  },
+  {
+    "name": "PARAMOUNT CONTISUIT \u2014 REFLECTIVE",
+    "colors": "Cedar Green",
+    "price": 290,
+    "image": "javlin-10.jpg",
+    "description": "Reflective tape on arms and legs"
+  },
+  {
+    "name": "PARAMOUNT CONTISUIT \u2014 REFLECTIVE",
+    "colors": "Royal Blue",
+    "price": 335,
+    "image": "javlin-11.jpg",
+    "description": "Reflective tape on arms and legs"
+  },
+  {
+    "name": "PARAMOUNT CONTISUIT \u2014 REFLECTIVE",
+    "colors": "Blue Indigo Denim",
+    "price": 324,
+    "image": "javlin-12.jpg",
+    "description": "Reflective tape on arms and legs"
+  }
+]
